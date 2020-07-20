@@ -12,6 +12,6 @@ You can start a new simulation job batch by cloning an existing batch\. When you
 
 1. To clone the entire batch, in the **Simulation job batch detail** page, under **Batch actions**, choose **Clone batch**\. 
 
-   Ti clone specific simulation job requests from the batch, under **Simulation job requests**, check the simulation job requests you want to clone, then select **Request actions** and choose **Clone request**\.
+   To clone specific simulation job requests from the batch, under **Simulation job requests**, check the simulation job requests you want to clone, then select **Request actions** and choose **Clone request**\.
 
 1. In the **Clone simulation job batch** page, select **Submit**\. 
